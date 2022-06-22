@@ -5,7 +5,10 @@
 
 <img align="center" style="margin:6rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitatehappiness&card_width=1000 &layout=compact&hide=html,css&title_color=EEEEEE&text_color=c9cacc&icon_color=EEEEEE&bg_color=1a1a1a" />
 
-### Languages & Tools 🛠
+### Languages & Tools ![ninja_0](https://user-images.githubusercontent.com/79199956/175010819-a4e97b33-d933-4f48-8c5b-2c0088066cf3.png) ![ninja_1](https://user-images.githubusercontent.com/79199956/175011196-190ec99c-b6d1-43e3-8358-31747dfefc14.png) ![ninja_2](https://user-images.githubusercontent.com/79199956/175011373-83385fc9-131d-42dc-870a-f121c2c4f628.png)
+
+
+
 ![cplusplus](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=1a1a1a&logo=cplusplus) ![Qt](https://img.shields.io/badge/-Qt-05122A?style=for-the-badge&color=1a1a1a&logo=qt) ![visualstudio](https://img.shields.io/badge/-VS-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudio)
 
 ![laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&color=1a1a1a&logo=laravel) ![visualstudiocode](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudiocode)
