@@ -16,15 +16,12 @@
 
 ![cplusplus](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=1a1a1a&logo=cplusplus) ![Qt](https://img.shields.io/badge/-Qt-05122A?style=for-the-badge&color=1a1a1a&logo=qt) ![visualstudio](https://img.shields.io/badge/-VS-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudio) ![visualstudiocode](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudiocode)
 
-![laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&color=1a1a1a&logo=laravel) 
-
 ![git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=1a1a1a&logo=git) ![github](https://img.shields.io/badge/-Git%20Hub-05122A?style=for-the-badge&color=1a1a1a&logo=github) ![postgresql](https://img.shields.io/badge/-PostgresSQL-05122A?style=for-the-badge&color=1a1a1a&logo=postgresql)
-
-![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-Adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop)
 
 ![windows](https://img.shields.io/badge/-windows-05122A?style=for-the-badge&color=1a1a1a&logo=windows) ![fedora](https://img.shields.io/badge/-fedora-05122A?style=for-the-badge&color=1a1a1a&logo=fedora) ![virtualbox](https://img.shields.io/badge/-virtualbox-05122A?style=for-the-badge&color=1a1a1a&logo=virtualbox) 
 
-![telegram](https://img.shields.io/badge/-telegram-05122A?style=for-the-badge&color=1a1a1a&logo=telegram) ![discord](https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=1a1a1a&logo=discord)
+![telegram](https://img.shields.io/badge/-telegram-05122A?style=for-the-badge&color=1a1a1a&logo=telegram) ![discord](https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=1a1a1a&logo=discord) ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-Adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop)
+
 
 <!-- Profile Views Counter-->
 ![](https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a)
