@@ -20,7 +20,7 @@
 
 ![windows](https://img.shields.io/badge/-windows-05122A?style=for-the-badge&color=1a1a1a&logo=windows) ![fedora](https://img.shields.io/badge/-fedora-05122A?style=for-the-badge&color=1a1a1a&logo=fedora) ![virtualbox](https://img.shields.io/badge/-virtualbox-05122A?style=for-the-badge&color=1a1a1a&logo=virtualbox) 
 
-![telegram](https://img.shields.io/badge/-telegram-05122A?style=for-the-badge&color=1a1a1a&logo=telegram) ![discord](https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=1a1a1a&logo=discord) ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-Adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop)
+![telegram](https://img.shields.io/badge/-telegram-05122A?style=for-the-badge&color=1a1a1a&logo=telegram) ![discord](https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=1a1a1a&logo=discord) ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) 
 
 
 <!-- Profile Views Counter-->
