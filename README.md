@@ -18,7 +18,7 @@
 
 ![laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&color=1a1a1a&logo=laravel) ![visualstudiocode](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudiocode)
 
-![git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=1a1a1a&logo=git) ![github](https://img.shields.io/badge/-Git%20Hub-05122A?style=for-the-badge&color=1a1a1a&logo=github) ![postgresql](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=1a1a1a&logo=postgresql)
+![git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=1a1a1a&logo=git) ![github](https://img.shields.io/badge/-Git%20Hub-05122A?style=for-the-badge&color=1a1a1a&logo=github) ![postgresql](https://img.shields.io/badge/-PostgresSQL-05122A?style=for-the-badge&color=1a1a1a&logo=postgresql)
 
 ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-Adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop)
 
