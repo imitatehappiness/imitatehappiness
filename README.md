@@ -1,5 +1,6 @@
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <!-- https://shields.io/ -->
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
 <!-- Image -->
 ![4eF7vpi-98s](https://user-images.githubusercontent.com/79199956/175012500-7950c65a-9dc0-4b80-b552-3d6a06ffc1fb.jpg)
