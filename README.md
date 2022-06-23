@@ -3,7 +3,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
 <!-- Image -->
-<!-- ![4eF7vpi-98s](https://user-images.githubusercontent.com/79199956/175012500-7950c65a-9dc0-4b80-b552-3d6a06ffc1fb.jpg) -->
+ ![4eF7vpi-98s](https://user-images.githubusercontent.com/79199956/175012500-7950c65a-9dc0-4b80-b552-3d6a06ffc1fb.jpg) -->
 
 <!-- Typing -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EEEEEE&background=1A1A1A&center=true&vCenter=true&width=1100&height=70&lines=KALENSKY)](https://git.io/typing-svg) -->
