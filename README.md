@@ -21,9 +21,8 @@
 
 ![windows](https://img.shields.io/badge/-windows-05122A?style=for-the-badge&color=1a1a1a&logo=windows) ![fedora](https://img.shields.io/badge/-fedora-05122A?style=for-the-badge&color=1a1a1a&logo=fedora) ![AstraLinux](https://img.shields.io/badge/-Astra%20Linux-05122A?style=for-the-badge&color=1a1a1a&logo=linux) ![virtualbox](https://img.shields.io/badge/-virtualbox-05122A?style=for-the-badge&color=1a1a1a&logo=virtualbox) 
 
-![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop) 
-
-![telegram](https://img.shields.io/badge/-telegram-05122A?style=for-the-badge&color=1a1a1a&logo=telegram) ![discord](https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=1a1a1a&logo=discord) 
+<!-- ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop) 
+![telegram](https://img.shields.io/badge/-telegram-05122A?style=for-the-badge&color=1a1a1a&logo=telegram) ![discord](https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=1a1a1a&logo=discord) -->
 
 <!-- Profile Views Counter-->
 ![](https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a)
