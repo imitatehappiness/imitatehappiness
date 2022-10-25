@@ -15,13 +15,16 @@
 ### Languages & Tools 
 <!-- ![ninja_0](https://user-images.githubusercontent.com/79199956/175010819-a4e97b33-d933-4f48-8c5b-2c0088066cf3.png) ![ninja_1](https://user-images.githubusercontent.com/79199956/175011196-190ec99c-b6d1-43e3-8358-31747dfefc14.png) ![ninja_2](https://user-images.githubusercontent.com/79199956/175011373-83385fc9-131d-42dc-870a-f121c2c4f628.png) -->
 
-![cplusplus](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=1a1a1a&logo=cplusplus) ![python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=1a1a1a&logo=python) ![Qt](https://img.shields.io/badge/-Qt-05122A?style=for-the-badge&color=1a1a1a&logo=qt) ![visualstudio](https://img.shields.io/badge/-VS-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudio) ![visualstudiocode](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudiocode) 
+![cplusplus](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=1a1a1a&logo=cplusplus) ![python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=1a1a1a&logo=python) 
 
-![git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=1a1a1a&logo=git) ![postgresql](https://img.shields.io/badge/-PostgresSQL-05122A?style=for-the-badge&color=1a1a1a&logo=postgresql) 
+![Qt](https://img.shields.io/badge/-Qt-05122A?style=for-the-badge&color=1a1a1a&logo=qt) ![visualstudio](https://img.shields.io/badge/-VS-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudio) ![pycharm](https://img.shields.io/badge/-pycharm-05122A?style=for-the-badge&color=1a1a1a&logo=pycharm) 
 
-![windows](https://img.shields.io/badge/-windows-05122A?style=for-the-badge&color=1a1a1a&logo=windows) ![fedora](https://img.shields.io/badge/-fedora-05122A?style=for-the-badge&color=1a1a1a&logo=fedora) ![AstraLinux](https://img.shields.io/badge/-Astra%20Linux-05122A?style=for-the-badge&color=1a1a1a&logo=linux) ![virtualbox](https://img.shields.io/badge/-virtualbox-05122A?style=for-the-badge&color=1a1a1a&logo=virtualbox) 
+<!--  ![git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=1a1a1a&logo=git) ![postgresql](https://img.shields.io/badge/-PostgresSQL-05122A?style=for-the-badge&color=1a1a1a&logo=postgresql) -->
 
-<!-- ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop) 
+![windows](https://img.shields.io/badge/-windows-05122A?style=for-the-badge&color=1a1a1a&logo=windows) ![fedora](https://img.shields.io/badge/-fedora-05122A?style=for-the-badge&color=1a1a1a&logo=fedora) ![AstraLinux](https://img.shields.io/badge/-Astra%20Linux-05122A?style=for-the-badge&color=1a1a1a&logo=linux) 
+
+<!-- ![virtualbox](https://img.shields.io/badge/-virtualbox-05122A?style=for-the-badge&color=1a1a1a&logo=virtualbox)  
+![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop) 
 ![telegram](https://img.shields.io/badge/-telegram-05122A?style=for-the-badge&color=1a1a1a&logo=telegram) ![discord](https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=1a1a1a&logo=discord) -->
 
 <!-- Profile Views Counter-->
