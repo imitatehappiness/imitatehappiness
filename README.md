@@ -14,9 +14,9 @@
 <!-- Languages & Tools -->
 <!-- ## Languages and Tools -->
 
-![cplusplus](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=1a1a1a&logo=cplusplus) ![python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=1a1a1a&logo=python) ![Qt](https://img.shields.io/badge/-Qt-05122A?style=for-the-badge&color=1a1a1a&logo=qt) ![pycharm](https://img.shields.io/badge/-pycharm-05122A?style=for-the-badge&color=1a1a1a&logo=pycharm) ![visualstudio](https://img.shields.io/badge/-VS-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudio) 
+<!--![cplusplus](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=1a1a1a&logo=cplusplus) ![python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=1a1a1a&logo=python) ![Qt](https://img.shields.io/badge/-Qt-05122A?style=for-the-badge&color=1a1a1a&logo=qt) ![pycharm](https://img.shields.io/badge/-pycharm-05122A?style=for-the-badge&color=1a1a1a&logo=pycharm) ![visualstudio](https://img.shields.io/badge/-VS-05122A?style=for-the-badge&color=1a1a1a&logo=visualstudio)  -->
 
-![postgresql](https://img.shields.io/badge/-PostgresSQL-05122A?style=for-the-badge&color=1a1a1a&logo=postgresql) ![github](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&color=1a1a1a&logo=github)
+<!--![postgresql](https://img.shields.io/badge/-PostgresSQL-05122A?style=for-the-badge&color=1a1a1a&logo=postgresql) ![github](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&color=1a1a1a&logo=github) -->
 
 <!-- ![windows](https://img.shields.io/badge/-windows-05122A?style=for-the-badge&color=1a1a1a&logo=windows) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=1a1a1a&logo=linux) ![AstraLinux](https://img.shields.io/badge/-Astra%20Linux-05122A?style=for-the-badge&color=1a1a1a&logo=linux)  -->
 
