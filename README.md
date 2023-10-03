@@ -5,12 +5,14 @@
 <!-- Image -->
 ![4eF7vpi-98s](https://user-images.githubusercontent.com/79199956/175012500-7950c65a-9dc0-4b80-b552-3d6a06ffc1fb.jpg)
 <!-- [![GitHub Stars](https://img.shields.io/github/stars/imitatehappiness?logo=github&style=for-the-badge&color=1a1a1a)](https://github.com/imitatehappiness)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imitatehappiness&rank_icon=github&hide_rank=true&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only&hide=contribs,prs)
+<!-- Profile Views Counter-->
+![](https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a)
+    
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imitatehappiness&hide=&layout=compact&theme=dark#gh-dark-mode-only)-->
 
 <!-- Typing -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EEEEEE&background=1A1A1A&center=true&vCenter=true&width=1100&height=70&lines=KALENSKY)](https://git.io/typing-svg) -->
-
-<!-- Most used languages -->
-<!-- <img align="center" style="margin:6rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitatehappiness&card_width=1000 &layout=compact&hide=html,css&title_color=EEEEEE&text_color=c9cacc&icon_color=EEEEEE&bg_color=1a1a1a" /> -->
 
 <!-- Languages & Tools -->
 <!-- ## Languages and Tools -->
@@ -29,8 +31,6 @@
 ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&color=1a1a1a&logo=notion) ![adobephotoshop](https://img.shields.io/badge/-adobe%20PS-05122A?style=for-the-badge&color=1a1a1a&logo=adobephotoshop) 
 ![telegram](https://img.shields.io/badge/-telegram-05122A?style=for-the-badge&color=1a1a1a&logo=telegram) ![discord](https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=1a1a1a&logo=discord) -->
 
-<!-- Profile Views Counter-->
-![](https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a)
 
 <!-- Leed Code -->
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=imitatehappiness&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
