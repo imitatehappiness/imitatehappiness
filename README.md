@@ -16,9 +16,11 @@
 <div align="center">
     <a href="https://t.me/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://www.linkedin.com/in/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" ></a>
-    <a href="https://github.com/imitatehappiness"><img src="https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a" alt="Stats" ></a>
 </div>
 
+<div align="center">
+    <a href="https://github.com/imitatehappiness"><img src="https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a" alt="Stats" ></a>
+</div>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imitatehappiness&hide=&layout=compact&theme=dark#gh-dark-mode-only)-->
 
