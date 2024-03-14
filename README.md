@@ -12,6 +12,7 @@
     <a href="https://github.com/imitatehappiness"><img src="https://github-readme-stats.vercel.app/api?username=imitatehappiness&rank_icon=github&hide_rank=true&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only&hide=contribs,prs" alt="Stats" ></a>
 </div>
 <br>
+
 <div >
     <a href="https://t.me/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://www.linkedin.com/in/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" ></a>
