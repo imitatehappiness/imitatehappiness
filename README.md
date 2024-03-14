@@ -10,38 +10,15 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imitatehappiness&rank_icon=github&hide_rank=true&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only&hide=contribs,prs)
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/imitatehappiness">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<!-- <div id="badges">
   <a href="https://t.me/imitatehappiness">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Tekegram Badge"/>
   </a>
-</div>
+</div> -->
 
 ![](https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a)
 
 
-<div style="display: flex;">
-  <!-- Левая часть с GitHub статистикой -->
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=imitatehappiness&rank_icon=github&hide_rank=true&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only&hide=contribs,prs" alt="GitHub Stats" />
-  </div>
-  
-  <!-- Правая часть с бейджами и счетчиком посещений -->
-  <div style="flex: 1; padding-left: 20px;">
-    <div id="badges" style="display: flex; flex-direction: column;">
-  <a href="https://www.linkedin.com/in/imitatehappiness">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <a href="https://t.me/imitatehappiness">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" "/>
-  </a>
-    <img src="https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a" alt="Profile Views" />
-    </div>
-    
-  </div>
-</div>
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imitatehappiness&hide=&layout=compact&theme=dark#gh-dark-mode-only)-->
