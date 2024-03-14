@@ -8,9 +8,9 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imitatehappiness&rank_icon=github&hide_rank=true&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only&hide=contribs,prs) -->
 <!-- Profile Views Counter-->
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/imitatehappiness"><img src="https://github-readme-stats.vercel.app/api?username=imitatehappiness&rank_icon=github&hide_rank=true&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only&hide=contribs,prs" alt="Stats" ></a>
-</div>
+</div>-->
 
 <br>
 <div align="center">
