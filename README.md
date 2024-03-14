@@ -10,13 +10,14 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imitatehappiness&rank_icon=github&hide_rank=true&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only&hide=contribs,prs)
 
-<!-- <div id="badges">
-  <a href="https://t.me/imitatehappiness">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Tekegram Badge"/>
-  </a>
-</div> -->
-
 ![](https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a)
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <div>
+        <a href="https://t.me/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+        <a href="https://www.linkedin.com/in/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" ></a>
+    </div>
+</div> 
 
 
 
