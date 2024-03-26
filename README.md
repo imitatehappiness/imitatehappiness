@@ -22,6 +22,9 @@
     <a href="https://github.com/imitatehappiness"><img src="https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a" alt="Stats" ></a>
 </div>
 
+
+<!--![Satya wikananda's card name](https://cardivo.vercel.app/api?name=IVAN%20KALENSKY&description=tg:%20imitatehappiness&image=https://user-images.githubusercontent.com/79199956/175012500-7950c65a-9dc0-4b80-b552-3d6a06ffc1fb.jpg&backgroundColor=%23ecf0f1&telegram=imitatehappiness&linkedin=imitatehappiness&github=imitatehappiness&colorPattern=%23eaeaea&pattern=topography) -->
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imitatehappiness&hide=&layout=compact&theme=dark#gh-dark-mode-only)-->
 
 <!-- Typing -->
