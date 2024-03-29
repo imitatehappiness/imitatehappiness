@@ -1,10 +1,10 @@
-<h3 align="center">
-    <!--<img src="https://user-images.githubusercontent.com/79199956/175012500-7950c65a-9dc0-4b80-b552-3d6a06ffc1fb.jpg" alt="GitHub">-->
-    <a href=""><img src="https://github-widgetbox.vercel.app/api/profile?username=imitatehappiness&data=followers,repositories,stars,commits&theme=default" alt="GitHub"></a>
-    <p>🤡</p>
-    <a href="https://github.com/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-white?style=for-the-badge&logo=github&logoColor=242424" alt="GitHub"></a>
-    <a href="https://t.me/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-white?style=for-the-badge&logo=telegram&logoColor=242424" alt="Telegram"></a>
-    <a href="https://www.linkedin.com/in/imitatehappiness"><img src="https://img.shields.io/badge/@imitatehappiness-white?style=for-the-badge&logo=linkedin&logoColor=242424" alt="LinkedIn"></a>
-    <br>
-    <a style="align: right" href="https://github.com/imitatehappiness"><img src="https://komarev.com/ghpvc/?username=imitatehappiness&style=for-the-badge&color=1a1a1a" alt="GitHub Profile Views"></a>
-</h3>
+<a href=""><img src="https://github-widgetbox.vercel.app/api/profile?username=imitatehappiness&data=followers,repositories,stars,commits&theme=default" alt="GitHub"></a> 
+
+[![Mail Badge](https://img.shields.io/badge/-imitatehappiness@mail.ru-c14438?style=social&logo=Mail.ru&logoColor=red&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
+[![Gmail Badge](https://img.shields.io/badge/-imitatehappiness@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=blue&link=https://t.me/ashleymavericks)](https://t.me/imitatehappiness)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/imitatehappiness/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-blue?style=social&logo=GitHub&logoColor=black&link=https://github.com/imitatehappiness)](https://github.com/imitatehappiness)
+
+[![ProfileViews](https://komarev.com/ghpvc/?username=imitatehappiness&color=blue&style=flat)](https://komarev.com/ghpvc/?username=imitatehappiness)
+
