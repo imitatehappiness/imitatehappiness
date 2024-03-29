@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=imitatehappiness&show_icons=true&hide=contribs,prs,issues&rank_icon=github" alt="github stats" width="45%" align="left"/>
 </span>
 
-[![Static Badge](https://img.shields.io/badge/-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤContactsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-c14438?&color=white&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
+[![Static Badge](https://img.shields.io/badge/-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤContactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-c14438?&color=white&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
 <br>
 
 [![Mail Badge](https://img.shields.io/badge/-imitatehappiness@mail.ru-c14438?style=social&logo=Mail.ru&logoColor=red&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
