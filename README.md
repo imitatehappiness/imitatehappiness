@@ -1,10 +1,5 @@
 <!-- Icons: https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file#%EF%B8%8F-cc -->
 
-<span>
-<img src="https://github-readme-stats.vercel.app/api?username=imitatehappiness&show_icons=true&hide=contribs,prs,issues&rank_icon=github" alt="github stats" width="45%" align="left"/>
-</span>
-
-[![Static Badge](https://img.shields.io/badge/-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤContactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-c14438?&color=white&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
 <br>
 
 [![Mail Badge](https://img.shields.io/badge/-imitatehappiness@mail.ru-c14438?style=social&logo=Mail.ru&logoColor=red&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
@@ -14,7 +9,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/imitatehappiness/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-blue?style=social&logo=GitHub&logoColor=black&link=https://github.com/imitatehappiness)](https://github.com/imitatehappiness)
 
-<br>
+[![GitHub Follow](https://img.shields.io/github/followers/imitatehappiness?color=&logo=github)](https://github.com/imitatehappiness)
+[![GitHub Follow](https://img.shields.io/github/stars/imitatehappiness?color=&logo=github)](https://github.com/imitatehappiness)
+
 <table>
   <thead align="center">
     <tr border: none;>
