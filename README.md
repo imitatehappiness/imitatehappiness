@@ -18,7 +18,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>📘 Project</b></td>
-      <td><b>📘 Language</b></td>
+      <td><b>🔤 Languages</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
       <td><b>📌 Descriptions</b></td>
@@ -37,14 +37,14 @@
       <td>Godot</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/GDAdvancedInventorySystem?style=&color=blue&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/GDAdvancedInventorySystem?style=&color=blue&labelColor="/></td>
-      <td>🎒Template inventory system</td>
+      <td>🎒 Template inventory system</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtCustomTitleBar"><b>QtCustomTitleBar</b></a></td>
       <td>C++/Qt</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtCustomTitleBar?style=&color=darkgreen&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtCustomTitleBar?style=&color=darkgreen&labelColor="/></td>
-      <td>🔲 Custom Title Bar Template</td>
+      <td>🔲 Template custom title bar </td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtHeadHunterBot"><b>QtHeadHunterBot</b></a></td>
@@ -52,6 +52,13 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtHeadHunterBot?style=&color=darkgreen&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtHeadHunterBot?style=&color=darkgreen&labelColor="/></td>
       <td>📈 Resume auto-update</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/imitatehappiness/QtFlappyBirdSFML"><b>QtFlappyBirdSFML</b></a></td>
+      <td>C++/Qt</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtFlappyBirdSFML?style=&color=darkgreen&labelColor="/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtFlappyBirdSFML?style=&color=darkgreen&labelColor="/></td>
+      <td>🐦 Flappy Bird Clone</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/PyOpenNSFWDetector"><b>PyOpenNSFWDetector</b></a></td>
