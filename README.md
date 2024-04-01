@@ -12,7 +12,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/imitatehappiness/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-blue?style=social&logo=GitHub&logoColor=black&link=https://github.com/imitatehappiness)](https://github.com/imitatehappiness)
 
-<br><br>
+<br>
 <table>
   <thead align="center">
     <tr border: none;>
