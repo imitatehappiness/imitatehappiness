@@ -14,14 +14,13 @@
 
 <br><br>
 
-[![ProfileViews](https://komarev.com/ghpvc/?username=imitatehappiness&color=blue&style=flat)](https://komarev.com/ghpvc/?username=imitatehappiness)
-
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
+      <td><b>📌 Descriptions</b></td>
     </tr>
   </thead>
   <tbody>
@@ -29,26 +28,33 @@
       <td><a href="https://github.com/imitatehappiness/GDLastOfTheSurvivors"><b>GDLastOfTheSurvivors</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/GDLastOfTheSurvivors?style=&color=blue&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/GDLastOfTheSurvivors?style=&color=blue&labelColor="/></td>
+      <td>✨ Top-down survival</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/GDAdvancedInventorySystem"><b>GDAdvancedInventorySystem</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/GDAdvancedInventorySystem?style=&color=blue&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/GDAdvancedInventorySystem?style=&color=blue&labelColor="/></td>
+      <td>🎒Template inventory system </td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtCustomTitleBar"><b>QtCustomTitleBar</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtCustomTitleBar?style=&color=darkgreen&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtCustomTitleBar?style=&color=darkgreen&labelColor="/></td>
+      <td>🔲 Custom Title Bar Template for C++ Qt</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtHeadHunterBot"><b>QtHeadHunterBot</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtHeadHunterBot?style=&color=darkgreen&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtHeadHunterBot?style=&color=darkgreen&labelColor="/></td>
+      <td>📈 Resume auto-update</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/PyOpenNSFWDetector"><b>PyOpenNSFWDetector</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/PyOpenNSFWDetector?style=&color=yellow&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/PyOpenNSFWDetector?style=&color=yellow&labelColor="/></td>
+      <td>🔞 Detect NSFW content in photos</td>
     </tr>
   </tbody>
 </table>
+
+[![ProfileViews](https://komarev.com/ghpvc/?username=imitatehappiness&color=blue&style=flat)](https://komarev.com/ghpvc/?username=imitatehappiness)
