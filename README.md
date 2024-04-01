@@ -37,14 +37,14 @@
       <td>Godot</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/GDAdvancedInventorySystem?style=&color=blue&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/GDAdvancedInventorySystem?style=&color=blue&labelColor="/></td>
-      <td>🎒Template inventory system </td>
+      <td>🎒Template inventory system</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtCustomTitleBar"><b>QtCustomTitleBar</b></a></td>
       <td>C++/Qt</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtCustomTitleBar?style=&color=darkgreen&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtCustomTitleBar?style=&color=darkgreen&labelColor="/></td>
-      <td>🔲 Custom Title Bar Template for C++ Qt</td>
+      <td>🔲 Custom Title Bar Template</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtHeadHunterBot"><b>QtHeadHunterBot</b></a></td>
