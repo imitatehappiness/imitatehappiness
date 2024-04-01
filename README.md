@@ -1,7 +1,5 @@
 <!-- Icons: https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file#%EF%B8%8F-cc -->
 
-<br>
-
 [![Mail Badge](https://img.shields.io/badge/-imitatehappiness@mail.ru-c14438?style=social&logo=Mail.ru&logoColor=red&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
 [![Gmail Badge](https://img.shields.io/badge/-imitatehappiness@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
 <br>
