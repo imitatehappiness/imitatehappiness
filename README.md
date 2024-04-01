@@ -1,3 +1,5 @@
+<!-- Icons: https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file#%EF%B8%8F-cc -->
+
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=imitatehappiness&show_icons=true&hide=contribs,prs,issues&rank_icon=github" alt="github stats" width="45%" align="left"/>
 </span>
@@ -26,42 +28,53 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/imitatehappiness/GDLastOfTheSurvivors"><b>GDLastOfTheSurvivors</b></a></td>
-      <td>Godot</td>
+      <td><img src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" width="30px"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/GDLastOfTheSurvivors?style=&color=blue&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/GDLastOfTheSurvivors?style=&color=blue&labelColor="/></td>
       <td>✨ Top-down survival</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/GDAdvancedInventorySystem"><b>GDAdvancedInventorySystem</b></a></td>
-      <td>Godot</td>
+      <td><img src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" width="30px"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/GDAdvancedInventorySystem?style=&color=blue&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/GDAdvancedInventorySystem?style=&color=blue&labelColor="/></td>
       <td>🎒 Template inventory system</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtCustomTitleBar"><b>QtCustomTitleBar</b></a></td>
-      <td>C++/Qt</td>
+      <td>
+          <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="30px"/>
+          <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="30px"/>
+      </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtCustomTitleBar?style=&color=darkgreen&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtCustomTitleBar?style=&color=darkgreen&labelColor="/></td>
       <td>🔲 Template custom title bar </td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtHeadHunterBot"><b>QtHeadHunterBot</b></a></td>
-      <td>C++/Qt</td>
+      <td>
+          <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="30px"/>
+          <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="30px"/>
+      </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtHeadHunterBot?style=&color=darkgreen&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtHeadHunterBot?style=&color=darkgreen&labelColor="/></td>
       <td>📈 Resume auto-update</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/QtFlappyBirdSFML"><b>QtFlappyBirdSFML</b></a></td>
-      <td>C++/Qt</td>
+      <td>
+          <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="30px"/>
+          <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width="30px"/>
+      </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/QtFlappyBirdSFML?style=&color=darkgreen&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/QtFlappyBirdSFML?style=&color=darkgreen&labelColor="/></td>
       <td>🐦 Flappy Bird Clone</td>
     </tr>
     <tr>
       <td><a href="https://github.com/imitatehappiness/PyOpenNSFWDetector"><b>PyOpenNSFWDetector</b></a></td>
-      <td>Python</td>
+      <td>
+          <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="30px"/>
+      </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/imitatehappiness/PyOpenNSFWDetector?style=&color=yellow&labelColor="/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/imitatehappiness/PyOpenNSFWDetector?style=&color=yellow&labelColor="/></td>
       <td>🔞 Detect NSFW content in photos</td>
