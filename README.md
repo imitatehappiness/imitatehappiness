@@ -13,7 +13,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-blue?style=social&logo=GitHub&logoColor=black&link=https://github.com/imitatehappiness)](https://github.com/imitatehappiness)
 
 <br><br>
-
 <table>
   <thead align="center">
     <tr border: none;>
