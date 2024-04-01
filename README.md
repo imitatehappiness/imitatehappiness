@@ -20,7 +20,7 @@
       <td><b>🔤 Languages</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
-      <td><b>📌 Descriptions</b></td>
+      <td><b>📌 Description</b></td>
     </tr>
   </thead>
   <tbody>
