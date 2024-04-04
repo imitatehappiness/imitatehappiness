@@ -10,6 +10,7 @@
 [![GitHub Follow](https://img.shields.io/github/followers/imitatehappiness?color=&logo=github)](https://github.com/imitatehappiness)
 [![GitHub Follow](https://img.shields.io/github/stars/imitatehappiness?color=&logo=github)](https://github.com/imitatehappiness)
 
+<!--
 <table>
   <thead align="center">
     <tr border: none;>
@@ -76,5 +77,6 @@
     </tr>
   </tbody>
 </table>
+-->
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=imitatehappiness&color=blue&style=flat)](https://komarev.com/ghpvc/?username=imitatehappiness)
