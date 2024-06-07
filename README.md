@@ -1,12 +1,9 @@
 <!-- Icons: https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file#%EF%B8%8F-cc -->
 
-[![Mail Badge](https://img.shields.io/badge/-imitatehappiness@mail.ru-c14438?style=social&logo=Mail.ru&logoColor=red&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
-[![Gmail Badge](https://img.shields.io/badge/-imitatehappiness@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@imitatehappiness)](mailto:email@imitatehappiness)
-<br>
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=blue&link=https://t.me/ashleymavericks)](https://t.me/imitatehappiness)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/imitatehappiness/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-blue?style=social&logo=GitHub&logoColor=black&link=https://github.com/imitatehappiness)](https://github.com/imitatehappiness)
-
+<br>
 [![GitHub Follow](https://img.shields.io/github/followers/imitatehappiness?color=&logo=github)](https://github.com/imitatehappiness)
 [![GitHub Follow](https://img.shields.io/github/stars/imitatehappiness?color=&logo=github)](https://github.com/imitatehappiness)
 
