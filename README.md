@@ -2,4 +2,4 @@
 
 
 [![GitHub](https://img.shields.io/github/stars/imitatehappiness?color=279adf&logo=github&style=flat)](https://github.com/imitatehappiness)
-[![ProfileViews](https://komarev.com/ghpvc/?username=imitatehappiness&color=279adf&style=flat)](https://komarev.com/ghpvc/?username=imitatehappiness)
+[![ProfileViews](https://komarev.com/ghpvc/?username=imitatehappiness&color=279adf&style=flat&abbreviated=true)](https://komarev.com/ghpvc/?username=imitatehappiness)
