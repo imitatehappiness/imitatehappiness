@@ -4,5 +4,7 @@
 [![GitHub](https://img.shields.io/github/stars/imitatehappiness?color=279adf&logo=github&style=flat)](https://github.com/imitatehappiness)
 [![ProfileViews](https://komarev.com/ghpvc/?username=imitatehappiness&color=279adf&style=flat&abbreviated=true)](https://komarev.com/ghpvc/?username=imitatehappiness)
 
+## 📊 Code::Stats
+
 <!--START_CODE_STATS_BOX-->
 <!--END_CODE_STATS_BOX-->
